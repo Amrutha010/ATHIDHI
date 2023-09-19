@@ -2,6 +2,8 @@
 
 from app import db
 
+
+
 # Host model
 class Host(db.Model):
     hostId = db.Column(db.Integer, primary_key=True, autoincrement=True)
