@@ -7,3 +7,6 @@ To enhance user trust and engagement, ATHIDHI incorporates a comprehensive revie
 
 
 Whether travelers are looking for a cozy home away from home or an adventurous retreat, ATHIDHI strives to create a vibrant community where hosts and guests can connect and create lasting memories together.
+
+
+
