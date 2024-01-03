@@ -4,9 +4,6 @@
 
 
 
-
-
-
 The application emphasizes authentic and personalized experiences, allowing hosts to provide detailed information about their properties and unique amenities. With secure and efficient booking and payment systems, ATHIDHI ensures a seamless process for guests to book their desired accommodations.
 
 To enhance user trust and engagement, ATHIDHI incorporates a comprehensive review and rating system, enabling guests to share their experiences and feedback about their stay. Additionally, the platform offers a user-friendly interface with advanced search filters, location-based recommendations, and interactive maps to help guests find the perfect place to stay.
